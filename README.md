@@ -5,9 +5,9 @@ In this project I'll be showing my first steps with JS.
 
 This is a test of table in MD
 
-|   First cell     |   Second cell    |   Third Cell     |
-|:..............|:.............:|..............:|
-|Some Value     |Another Value  |whatever       |
-|Left alinged   |Centered       |Right aligned  |
-
+| Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
 ....
