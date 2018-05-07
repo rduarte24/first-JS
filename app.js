@@ -119,5 +119,15 @@ console.log(arreglo);
 let arreglo2=[1,2,3,4,5];
 console.log(arreglo.concat(arreglo2));
 
+//How to sort a string array
+const frutas = ['Platano', 'Manzana','Fresa','Naranja'];
+frutas.sort();
+console.log(frutas);
 
+//this is how to sort a number array
+let arreglonum=[5,8,2,4,1,6,2,7,8,0];
+arreglonum.sort(
+    (x,y)=>{return y-x}
+);
+console.log(arreglonum);
 
